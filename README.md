@@ -72,18 +72,22 @@ Microsoft Powerbi: Dashboard, Data visualization
 - Northern Region generates the highest revenue, while East Region has the lowest, indicating a need for targeted sales strategies.
 - Some transactions are losing money because the cost of buying the products is too high or the selling price is too low, reducing overall profits.
 - Certain high-selling products still have low profit margins, meaning pricing strategies need adjustment.
+  
 2. Customer Satisfaction Insights
 - Products with higher customer ratings (above 4.5) have higher repeat purchases, indicating strong brand loyalty.
 - Northern Region consistently receives the highest customer ratings, suggesting better service or product availability.
 - Some highly rated products like smartwatch have low sales, showing an opportunity for better marketing or pricing adjustments.
+
 3. Procurement Efficiency Insights
 - Supplier hardwave haven offers the lowest cost prices, making them the most cost-effective choice.
 - Supplier Lead Times vary significantly, affecting product availability and possibly customer satisfaction.
 - Smart watch has high procurement costs but low sales need reassessment to reduce unnecessary expenses.
+  
 4. Workforce Productivity Insights
 - Certain products require significantly more employee hours, impacting efficiency.
 - Southern Region has the highest employee workload, aligning with its high revenue but posing risks of burnout.
 - No clear correlation between more employee hours and higher customer ratings, suggesting inefficiencies in workforce allocation.
+  
 5. Trends and Patterns
 - Seasonal trends indicate that revenue peaks in specific months sales go up and down at different times, so businesses should plan their inventory wisely to avoid running out of stock during busy periods or having too much during slow times.
 - When suppliers deliver products faster, customers are happier. Hence the importance choosing reliable suppliers to keep customers satisfied.
@@ -93,9 +97,13 @@ Profitability and sales volume don’t always align, meaning some high-selling p
  ## Data visualization/ Dashboards
  # DASHBOARDS
 ![CSD](https://github.com/user-attachments/assets/14c78be6-04bf-4dca-9632-22612a1cc64d)
+
 ![customer experience](https://github.com/user-attachments/assets/163da22b-6f73-4fc2-b598-1e41ed91fceb)
+
 ![customers experience dashboard](https://github.com/user-attachments/assets/6ea4b982-3687-41d4-827f-084d9d26c05c)
+
 ![procurement dp](https://github.com/user-attachments/assets/cf301cc4-ea60-4589-bb0f-3e864b3de669)
+
 ![TOTAL REVENUE](https://github.com/user-attachments/assets/ba5be7c3-5f93-47bf-a22e-15bd3710094d)
 
 ---
